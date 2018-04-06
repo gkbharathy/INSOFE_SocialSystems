@@ -1,2 +1,2 @@
-# INSOFE_SocialSystems_InfoCrunch
+# INSOFE_SocialSystems
 INSOFE_SocialSystems
